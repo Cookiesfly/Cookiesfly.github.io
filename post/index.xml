@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cookiesfly随记</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Cookiesfly随记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Jul 2021 23:38:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对Python中闭包的理解</title>
+      <link>http://localhost:1313/post/%E5%AF%B9python%E4%B8%AD%E9%97%AD%E5%8C%85%E7%9A%84%E7%90%86%E8%A7%A3/</link>
+      <pubDate>Tue, 13 Jul 2021 23:38:46 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%AF%B9python%E4%B8%AD%E9%97%AD%E5%8C%85%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
+      <description>定义 Python闭包表现为:如果在一个内部函数里，对在外部作用域（非全局作用域）的变量进行引用，那么内部函数就被认为是闭包(closure)</description>
+    </item>
+    
+    <item>
+      <title>判断一个网站环境</title>
+      <link>http://localhost:1313/post/%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99%E7%8E%AF%E5%A2%83/</link>
+      <pubDate>Tue, 13 Jul 2021 23:29:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99%E7%8E%AF%E5%A2%83/</guid>
+      <description>操作系统(OS)判断 大小写判断 Linux对大小写敏感；Windows对大小写不敏感 网站编程语言判断 为什么把网站的url做成伪静态 - 优点： a.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Cookiesfly随记</title>
+    <link>http://localhost:1313/categories/python/</link>
+    <description>Recent content in Python on Cookiesfly随记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Jul 2021 23:38:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对Python中闭包的理解</title>
+      <link>http://localhost:1313/post/%E5%AF%B9python%E4%B8%AD%E9%97%AD%E5%8C%85%E7%9A%84%E7%90%86%E8%A7%A3/</link>
+      <pubDate>Tue, 13 Jul 2021 23:38:46 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%AF%B9python%E4%B8%AD%E9%97%AD%E5%8C%85%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
+      <description>定义 Python闭包表现为:如果在一个内部函数里，对在外部作用域（非全局作用域）的变量进行引用，那么内部函数就被认为是闭包(closure)</description>
+    </item>
+    
+  </channel>
+</rss>
